@@ -1,0 +1,22 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "jokes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KennTorg/joker.git"
+  },
+  "keywords": [
+    "e-commerce"
+  ],
+  "author": "KennTorg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KennTorg/joker/issues"
+  },
+  "homepage": "https://github.com/KennTorg/joker#readme"
+}
